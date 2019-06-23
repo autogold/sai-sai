@@ -1,2 +1,0 @@
-# sai-sai
-gitudaccount
